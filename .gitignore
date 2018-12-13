@@ -1,3 +1,5 @@
 # Don't need no data files.
 **/data/
 *.rkt.swp
+*.pyc
+**/__pycache__/
